@@ -4,7 +4,7 @@
 
 ## About me
 
-I am a college student and day trader, currently studying Btech+MS at Jawaharlal Nehru University, India. I am interested in financial markets and web development. In the future, I want to become an officer in the Indian Police Service. 
+I am a college student and day trader, currently studying Btech+MS at Jawaharlal Nehru University, India. I am interested in financial markets and web development. In the future, I want to become an investment banking and finance professional. 
 
 ## Work Experience
 
