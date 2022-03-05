@@ -8,37 +8,48 @@ I am a college student and day trader, currently studying Btech+MS at Jawaharlal
 
 ## Work Experience
 
-1. **Good Humour Company**: I currently offer investment banking and consultancy related services in my company. I specialize in intraday trading of derivatives, especially  BANKNIFTY and NIFTY options.
+1. **Website Development at Ehsaan Clinic, Kolkata**: (April 2020 - June 2020) Developed a full website from scratch using Bootstrap 4 and hosted it on a Linux based Web Server.
 
-2. **Website Development at Ehsaan Clinic, Kolkata**: Developed a full website from scratch using Bootstrap 4 and hosted it on a Linux based Web Server.
+2. **Developed Trading Algorithm** : (June 2020 - July 2020)Developed a trading algorithm to identify consolidation periods and breakouts in stock markets
 
-3. **Developed Trading Algorithm** : Developed a trading algorithm to identify consolidation periods and breakouts in stock markets
-
-4. **Coaching Solution Development** : Worked in a team to develop a full stack solution for a coaching center based in Gurgaon, Haryana, India named The Rising Arjun.
+3. **Coaching Solution Development** : (August 2020 - November 2020 ) Worked in a team to develop a full stack solution for a coaching center based in Gurgaon, Haryana, India named The Rising Arjun.
 
 ## Education
 
 1. Apeejay School, Park Street: Tenth Grade: Graduated with CGPA 10 from CBSE. 
 2. Apeejay School, Park Street: Twelfth Grade: Graduated with 97.4% marks in CBSE Science stream(best of four).
-3. Currently studying at Jawaharlal Nehru University. 
+3. Currently studying BTech + MS Integrated Course at Jawaharlal Nehru University. 
 
 ## Honors & Awards
 
 1. Surendra Paul Scholarship Award: Was awarded Rs 50,000 from school for exceptional academic performance in science stream.
 2. Deputy Head of School
 3. International English Olympiad conducted by British Council: International rank one secured. 
+4. Book Author: Authored Solution to review exercises Statistics by David Freedman 3rd Ed. Currently published on Amazon.
 
 ## Skills 
 
+### General Skills
 -  Analytical Skills
 - Communication and Leadership
+- Superuser of office suite software
+- Teamwork and team building
+
+### Financial Skills
 - Financial Markets
-- Intraday Trading Specialist
-- Expert at Technical Analysis
-- Harmonic Pattern identification
-- Risk management and Analysis
+- Intraday Trading in options
+- Technical Analysis
+- Economics
+- Equity risk management and analysis
+
+### Technical Skills
 - Full Stack Web Development
+- Proficient in Bootstrap 4, ReactJs, Angular
+- Proficient in Mongodb, Express and NodeJs
+- Data Structures and Algorithms
 - C/C++/Java/Python
+- Api Building and deployment
+- Git/Github proficiency
 
 ## Certifications
 
