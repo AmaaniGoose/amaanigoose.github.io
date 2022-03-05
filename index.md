@@ -30,15 +30,27 @@ I am a college student and day trader, currently studying Btech+MS at Jawaharlal
 
 ## Skills 
 
+### General Skills
 -  Analytical Skills
 - Communication and Leadership
+- Superuser of office suite software
+- Teamwork and team building
+
+### Financial Skills
 - Financial Markets
-- Intraday Trading Specialist
-- Expert at Technical Analysis
-- Harmonic Pattern identification
-- Risk management and Analysis
+- Intraday Trading in options
+- Technical Analysis
+- Economics
+- Equity risk management and analysis
+
+### Technical Skills
 - Full Stack Web Development
+- Proficient in Bootstrap 4, ReactJs, Angular
+- Proficient in Mongodb, Express and NodeJs
+- Data Structures and Algorithms
 - C/C++/Java/Python
+- Api Building and deployment
+- Git/Github proficiency
 
 ## Certifications
 
