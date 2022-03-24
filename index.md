@@ -6,13 +6,26 @@
 
 I am a college student and day trader, currently studying Btech+MS at Jawaharlal Nehru University, India. I am interested in financial markets and web development. In the future, I want to become an investment banking and finance professional. 
 
+## Projects and Portfolio
+
+1. **Central University website development** : Developed the main website for School of Engineering at JNU using Drupal
+CMS, Postgresql and PHP
+
+2. **Twitter equalizer** : Leveraged python and twitter API to create a web app that allows the user to
+switch accounts seamlessly
+
+3. **Book Author** : Authored Solution to review exercises Statistics by David Freedman 3rd Ed.
+Currently published on Amazon.
+
+4. **Developed Trading Algorithm** : Developed a trading algorithm to identify consolidation periods and
+breakouts in stock markets.
+
 ## Work Experience
 
 1. **Website Development at Ehsaan Clinic, Kolkata**: (April 2020 - June 2020) Developed a full website from scratch using Bootstrap 4 and hosted it on a Linux based Web Server.
 
-2. **Developed Trading Algorithm** : (June 2020 - July 2020)Developed a trading algorithm to identify consolidation periods and breakouts in stock markets
-
-3. **Coaching Solution Development** : (August 2020 - November 2020 ) Worked in a team to develop a full stack solution for a coaching center based in Gurgaon, Haryana, India named The Rising Arjun.
+2. **Coaching Solution Development** : (August 2020 - November 2020 ) Worked in a team to develop a full stack solution for a coaching center based in Gurgaon, Haryana, India named The Rising Arjun.
+ 
 
 ## Education
 
@@ -23,9 +36,9 @@ I am a college student and day trader, currently studying Btech+MS at Jawaharlal
 ## Honors & Awards
 
 1. Surendra Paul Scholarship Award: Was awarded Rs 50,000 from school for exceptional academic performance in science stream.
-2. Deputy Head of School
+2. Qualified Graduate Aptitude Test in Engineering (GATE-2022) exam with AIR-1929 in ECE domain
 3. International English Olympiad conducted by British Council: International rank one secured. 
-4. Book Author: Authored Solution to review exercises Statistics by David Freedman 3rd Ed. Currently published on Amazon.
+4. Leadership positions in school and university. 
 
 ## Skills 
 
