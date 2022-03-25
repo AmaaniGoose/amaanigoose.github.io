@@ -11,22 +11,22 @@ I am a college student and day trader, currently studying Btech+MS at Jawaharlal
 1. **Central University website development** : Developed the main website for School of Engineering at JNU using Drupal
 CMS, Postgresql and PHP
 
-Project link: http://soe.jnu.ac.in/
+[Project link](http://soe.jnu.ac.in/)
 
 2. **Twitter equalizer** : Leveraged python and twitter API to create a web app that allows the user to
 switch accounts seamlessly
 
-Project link: https://colab.research.google.com/drive/1YgsnDbAeVKezhCyrqlaGKBBGgSbeUlQJ?usp=sharing
+[Project link](https://colab.research.google.com/drive/1YgsnDbAeVKezhCyrqlaGKBBGgSbeUlQJ?usp=sharing)
 
-3. **Book Author** : Authored Solution to review exercises Statistics by David Freedman 3rd Ed.
+1. **Book Author** : Authored Solution to review exercises Statistics by David Freedman 3rd Ed.
 Currently published on Amazon.
 
-Project link: https://www.amazon.in/Solution-review-exercises-Statistics-Freedman-ebook/dp/B08DNSTHLD
+[Project link](https://www.amazon.in/Solution-review-exercises-Statistics-Freedman-ebook/dp/B08DNSTHLD)
 
-4. **Developed Trading Algorithm** : Developed a trading algorithm to identify consolidation periods and
+1. **Developed Trading Algorithm** : Developed a trading algorithm to identify consolidation periods and
 breakouts in stock markets.
 
-Project link: https://github.com/AmaaniGoose/FinanceProject
+[Project link](https://github.com/AmaaniGoose/FinanceProject) 
 
 ## Work Experience
 
