@@ -11,14 +11,22 @@ I am a college student and day trader, currently studying Btech+MS at Jawaharlal
 1. **Central University website development** : Developed the main website for School of Engineering at JNU using Drupal
 CMS, Postgresql and PHP
 
+Project link: http://soe.jnu.ac.in/
+
 2. **Twitter equalizer** : Leveraged python and twitter API to create a web app that allows the user to
 switch accounts seamlessly
+
+Project link: https://colab.research.google.com/drive/1YgsnDbAeVKezhCyrqlaGKBBGgSbeUlQJ?usp=sharing
 
 3. **Book Author** : Authored Solution to review exercises Statistics by David Freedman 3rd Ed.
 Currently published on Amazon.
 
+Project link: https://www.amazon.in/Solution-review-exercises-Statistics-Freedman-ebook/dp/B08DNSTHLD
+
 4. **Developed Trading Algorithm** : Developed a trading algorithm to identify consolidation periods and
 breakouts in stock markets.
+
+Project link: https://github.com/AmaaniGoose/FinanceProject
 
 ## Work Experience
 
@@ -31,7 +39,7 @@ breakouts in stock markets.
 
 1. Apeejay School, Park Street: Tenth Grade: Graduated with CGPA 10 from CBSE. 
 2. Apeejay School, Park Street: Twelfth Grade: Graduated with 97.4% marks in CBSE Science stream(best of four).
-3. Currently studying BTech + MS Integrated Course at Jawaharlal Nehru University. 
+3. Currently studying BTech + MS Integrated Course at Jawaharlal Nehru University. Current CGPA: 8.66/9. 
 
 ## Honors & Awards
 
