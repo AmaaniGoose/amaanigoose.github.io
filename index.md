@@ -18,15 +18,28 @@ switch accounts seamlessly
 
 [Project link](https://colab.research.google.com/drive/1YgsnDbAeVKezhCyrqlaGKBBGgSbeUlQJ?usp=sharing)
 
-1. **Book Author** : Authored Solution to review exercises Statistics by David Freedman 3rd Ed.
+3. **Book Author** : Authored Solution to review exercises Statistics by David Freedman 3rd Ed.
 Currently published on Amazon.
 
 [Project link](https://www.amazon.in/Solution-review-exercises-Statistics-Freedman-ebook/dp/B08DNSTHLD)
 
-1. **Developed Trading Algorithm** : Developed a trading algorithm to identify consolidation periods and
+4. **Developed Trading Algorithm** : Developed a trading algorithm to identify consolidation periods and
 breakouts in stock markets.
 
 [Project link](https://github.com/AmaaniGoose/FinanceProject) 
+
+5. **E-Yantra Robotics Competition**: 
+
+Reached the semi final stage of the e-Yantra competition organised by IIT Bombay
+• Desgined a robot arm and programmed algorithmic bot navigation
+• Concepts learned and used were Robotic Simulation, Image Processing, 3D Designing, Algorithm Building,
+Robot Navigation and localization, Python programming and Lua programming.
+• Used OpenCV to detect strawberries, blueberries and lemons in greenhouse environment and wrote inverse
+kinematics code to implement pluck and place algorithm.
+• Used OpenCV along with Pybzar to design a QR code based navigation system
+• Rank 12/550 teams .
+
+[Project link](https://portal.e-yantra.org/themeIntro) 
 
 ## Work Experience
 
