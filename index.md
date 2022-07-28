@@ -4,7 +4,18 @@
 
 ## About me
 
-I am a college student and day trader, currently studying Btech+MS at Jawaharlal Nehru University, India. I am interested in financial markets and web development. In the future, I want to become an investment banking and finance professional. 
+I am an University student and options trader, currently studying towards my BTech degree at Jawaharlal Nehru University, India. I am interested in financial markets and web development. In the future, I want to become an investment banking and finance professional. 
+
+## Education
+
+1. Apeejay School, Park Street: Tenth Grade: Graduated with CGPA 10 from CBSE. 
+2. Apeejay School, Park Street: Twelfth Grade: Graduated with 97.4% marks in CBSE Science stream(best of four).
+3. Currently studying for a BTech degree at Jawaharlal Nehru University.
+CGPA: 8.66/9
+Rank 1 out of 65 students
+Qualified GATE-2022 in EC (AIR-1929)
+
+
 
 ## Projects and Portfolio
 
@@ -31,35 +42,30 @@ breakouts in stock markets.
 5. **E-Yantra Robotics Competition**: 
 
 Reached the semi final stage of the e-Yantra competition organised by IIT Bombay
-• Desgined a robot arm and programmed algorithmic bot navigation
-• Concepts learned and used were Robotic Simulation, Image Processing, 3D Designing, Algorithm Building,
+-  Desgined a robot arm and programmed algorithmic bot navigation
+-  Concepts learned and used were Robotic Simulation, Image Processing, 3D Designing, Algorithm Building,
 Robot Navigation and localization, Python programming and Lua programming.
-• Used OpenCV to detect strawberries, blueberries and lemons in greenhouse environment and wrote inverse
+-  Used OpenCV to detect strawberries, blueberries and lemons in greenhouse environment and wrote inverse
 kinematics code to implement pluck and place algorithm.
-• Used OpenCV along with Pybzar to design a QR code based navigation system
-• Rank 12/550 teams .
+-  Used OpenCV along with Pybzar to design a QR code based navigation system
+-  Rank 12/550 teams .
 
 [Project link](https://portal.e-yantra.org/themeIntro) 
 
 ## Work Experience
 
-1. **Website Development at Ehsaan Clinic, Kolkata**: (April 2020 - June 2020) Developed a full website from scratch using Bootstrap 4 and hosted it on a Linux based Web Server.
+1. **Website Developer**: (April 2020 - June 2020) 
+**Ehsaan Clinic**
+Developed a full website from scratch using Bootstrap 4 and hosted it on a Linux based Web Server.
 
-2. **Coaching Solution Development** : (August 2020 - November 2020 ) Worked in a team to develop a full stack solution for a coaching center based in Gurgaon, Haryana, India named The Rising Arjun.
- 
+2. **Coaching Solution Development** : (August 2020 - November 2020) 
+**The Rising Arjun**
+Worked in a team to develop a full stack solution for a coaching center based in Gurgaon, Haryana.
 
-## Education
-
-1. Apeejay School, Park Street: Tenth Grade: Graduated with CGPA 10 from CBSE. 
-2. Apeejay School, Park Street: Twelfth Grade: Graduated with 97.4% marks in CBSE Science stream(best of four).
-3. Currently studying BTech + MS Integrated Course at Jawaharlal Nehru University. Current CGPA: 8.66/9. 
-
-## Honors & Awards
-
-1. Surendra Paul Scholarship Award: Was awarded Rs 50,000 from school for exceptional academic performance in science stream.
-2. Qualified Graduate Aptitude Test in Engineering (GATE-2022) exam with AIR-1929 in ECE domain
-3. International English Olympiad conducted by British Council: International rank one secured. 
-4. Leadership positions in school and university. 
+3. **Cybersecurity Engage Intern** : (May 2022 - Present)
+**Microsoft**
+Learned penetration testing tools and techniques like Wireshark and Metasploit. Applied python in cybersecurity.
+Final project based on protecting critical infrastructure against attacks similar to Stuxnet.
 
 ## Skills 
 
@@ -87,11 +93,41 @@ kinematics code to implement pluck and place algorithm.
 
 ## Certifications
 
+- Amazon Machine Learning Summer School 2022
 - Coursera: Introduction to Financial Markets
 - Coursera:  Front-End Web UI Frameworks and Tools React
 - Coursera:  Front-End Web UI Frameworks and Tools React Native
 - Coursera:  Front-End Web UI Frameworks and Tools Angular
 - Coursera:  Back-End Web UI Frameworks and Tools NodeJs, Express and MongoDB
+
+## Honors & Awards
+
+-  International English Olympiad: International Rank 1
+-  Surendra Paul Scholarship Award from Apeejay Schools for exceptional academic achievement and flawless
+conduct
+-  Our team participated in Innovation Sprint competition organized by Atal Incubation Centre, JNU and Forge
+accelerator and our idea, ”Subscription Service for Home-cooked Meals” was shortlisted for incubation.
+-  Finalist at Mock Stock Challenge @ Bullseye 2021
+-  Bagged 1st Position in the History Quiz organised by SBSC, DU
+-  First position in Coding Challenge by Kyron, IIIT-Delhi
+
+## Co-Curricular Activities: 
+
+-  Authored Solution to Review Exercises, Statistics by David Freedman 3rd Ed. Currently published on Amazon.
+-  Selected as Co-President at CoLD, the Computer Science Club of SE, JNU.
+-  Regular participation in technical events and quizzes.
+
+## Extra-Curricular Activities
+
+-  Class representative since 2020
+-  Ex-Executive at Abhinay, the Drama Club of JNU SE
+-  Market participant since 2020 and blog author at Amaan’s Almanac.
+
+## Volunteering
+
+-  Open Source Contributor at Hacktoberfest in 2020 and 2021.
+-  Web Developer at Pawsome Foundation, an organization dedicated to animal well-being.
+-  Took part in Each One Teach One program in high school.
 
 ## Hobbies
 
@@ -99,6 +135,11 @@ kinematics code to implement pluck and place algorithm.
 - Philosophy
 - Literature
 - Anime and Manga
+
+## LANGUAGES
+-  English
+-  Hindi
+-  Bengali
 
 ## Contact Information
 
