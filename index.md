@@ -4,7 +4,7 @@
 
 ## About me
 
-I am an University student and options trader, currently studying towards my BTech degree at Jawaharlal Nehru University, India. I am interested in financial markets and web development. In the future, I want to become an investment banking and finance professional. 
+I am a university student and options trader, currently studying towards my BTech degree at Jawaharlal Nehru University, India. I am interested in financial markets and web development. In the future, I want to become an investment banking and finance professional. 
 
 ## Education
 
@@ -41,14 +41,14 @@ breakouts in stock markets.
 
 5. **E-Yantra Robotics Competition**: 
 
-Reached the semi final stage of the e-Yantra competition organised by IIT Bombay
--  Desgined a robot arm and programmed algorithmic bot navigation
+Reached the semi-final stage of the e-Yantra competition organised by IIT Bombay
+-  Designed a robot arm and programmed algorithmic bot navigation
 -  Concepts learned and used were Robotic Simulation, Image Processing, 3D Designing, Algorithm Building,
 Robot Navigation and localization, Python programming and Lua programming.
 -  Used OpenCV to detect strawberries, blueberries and lemons in greenhouse environment and wrote inverse
 kinematics code to implement pluck and place algorithm.
 -  Used OpenCV along with Pybzar to design a QR code based navigation system
--  Rank 12/550 teams .
+-  Rank 12/550 teams.
 
 [Project link](https://portal.e-yantra.org/themeIntro) 
 
