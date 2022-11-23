@@ -4,12 +4,12 @@
 
 ## About me
 
-I am a university student and options trader, currently studying towards my BTech degree at Jawaharlal Nehru University, India. I am interested in financial markets and web development. In the future, I want to become an investment banking and finance professional. 
+I am a University student currently studying towards my BTech degree at Jawaharlal Nehru University, India. I am passionate and creative, with a strong focus on problem solving and result oriented performance. 
 
 ## Education
 
 1. Apeejay School, Park Street: Tenth Grade: Graduated with CGPA 10 from CBSE. 
-2. Apeejay School, Park Street: Twelfth Grade: Graduated with 97.4% marks in CBSE Science stream(best of four).
+2. Apeejay School, Park Street: Twelfth Grade: Graduated with 95.4% marks in CBSE Science stream(best of four).
 3. Currently studying for a BTech degree at Jawaharlal Nehru University.
 CGPA: 8.66/9
 Rank 1 out of 65 students
@@ -125,7 +125,7 @@ accelerator and our idea, ”Subscription Service for Home-cooked Meals” was s
 
 ## Volunteering
 
--  Open Source Contributor at Hacktoberfest in 2020 and 2021.
+-  Open Source Contributor at Hacktoberfest in 2020, 2021 and 2022.
 -  Web Developer at Pawsome Foundation, an organization dedicated to animal well-being.
 -  Took part in Each One Teach One program in high school.
 
