@@ -1,6 +1,6 @@
 # Welcome to the personal site of Amanullah Asad
 
-![my picture](/assets/profilepicturehat.jpg)
+![my picture](/assets/profilepicturesuit.jpeg)
 
 ## About me
 
@@ -11,12 +11,11 @@ I am a University student currently studying towards my BTech degree in Electron
 1. Apeejay School, Park Street: Tenth Grade: Graduated with CGPA 10 from CBSE. 
 2. Apeejay School, Park Street: Twelfth Grade: Graduated with 95.4% marks in CBSE Science stream(best of four).
 3. Currently studying for a BTech degree Electronics and Communications Engineering at Jawaharlal Nehru University.
-CGPA: 8.66/9
+CGPA: 8.68/9 (91.8%)
 
 Rank 1 out of 65 students
 
 Qualified GATE-2022 in EC (AIR-1929)
-
 
 
 ## Projects and Portfolio
@@ -68,6 +67,15 @@ Worked in a team to develop a full stack solution for a coaching center based in
 **Microsoft**
 Learned penetration testing tools and techniques like Wireshark and Metasploit. Applied python in cybersecurity.
 Final project based on protecting critical infrastructure against attacks similar to Stuxnet.
+
+4. **Communication and Collaboration Intern** : (January 2023 - Present)
+**Ciena**
+Responsible for performing Microsoft SAAS infrastructure related tasks end to
+end with best-in-class tools and technologies. Involved in managing various
+M365 services like Exchange, SharePoint, Teams, etc with a solid focus on innovation,
+security, and automation. Worked on ideation on the best strategies
+and practices for communication and collaboration within Ciena IT.
+
 
 ## Skills 
 
