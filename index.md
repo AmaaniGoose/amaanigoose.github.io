@@ -4,18 +4,17 @@
 
 ## About me
 
-I am a University student currently studying towards my BTech degree in Electronics and Communications Engineering at Jawaharlal Nehru University, India. I am passionate and creative, with a strong focus on problem solving and result oriented performance. 
+I am a student at the Indian Institute of Management, Calcutta pursuing a Masters in Business Administration degree. I am passionate and creative, with a strong focus on problem solving and result oriented performance. 
 
 ## Education
 
 1. Apeejay School, Park Street: Tenth Grade: Graduated with CGPA 10 from CBSE. 
 2. Apeejay School, Park Street: Twelfth Grade: Graduated with 95.4% marks in CBSE Science stream(best of four).
-3. Currently studying for a BTech degree Electronics and Communications Engineering at Jawaharlal Nehru University.
-CGPA: 8.68/9 (91.8%)
+3. BTech degree Electronics and Communications Engineering at Jawaharlal Nehru University.
+CGPA: 8.68/9 (91.8%). Rank 1 out of 65 students. Qualified GATE-2022 in EC (AIR-1929)
+4. Currently pursuing MBA from IIM Calcutta.
 
-Rank 1 out of 65 students
 
-Qualified GATE-2022 in EC (AIR-1929)
 
 
 ## Projects and Portfolio
