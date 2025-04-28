@@ -44,7 +44,7 @@ Multi-faceted individual. Engineer by training, humanist by philosophy. Budding 
   - Awarded **PPO** for consistent and excellent performance; Presented novel analytics engine to **2 Amex VPs**.  
   - Proposed workflows improving analysis efficiency by **40%**; Conducted **2 KT sessions** on Python analytics.  
 - **Responsibilities**:  
-  - Harnessed **SQL and PySpark** to analyze **18+ row datasets**, expanding MSME merchant analytical coverage.  
+  - Harnessed **SQL and PySpark** to analyze **1 Billion+ row datasets**, expanding MSME merchant analytical coverage.  
   - Developed **3+ innovative models**, boosting analytics speed by **30%** with greater accuracy and verifiability.  
 
 ### KRAFTSHALA | *Live Project Intern, Founders' Office* (Jan 2024 – Apr 2024)  
