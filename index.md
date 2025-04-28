@@ -17,65 +17,83 @@ Multi-faceted individual. Engineer by training, humanist by philosophy. Budding 
 ---
 
 ## Academic Distinctions & Co-Curricular Achievements  
-### Competitions & Accolades  
-- Received calls from IIM A, C, L, I, U and FMS, DU; Converted 8/9 of the top B-Schools of the country (2023)
-- Secured 99.83%ile in CAT-2022 examination amongst 2.22+ lakh candidates with 99.85%ile in VARC (2022)
-- International rank 1 in 7th IEO, 3 in 6th IEO; State rank 56 in 19th NSO; Qualified for RMO by HBCSE (16,18)
+### Competitions and Accolades  
+- Received calls from **IIM A, C, L, I, U and FMS, DU**; Converted **8/9** of the top B-Schools of the country.  
+- Secured **99.83%ile** in CAT-2022 examination amongst **2.22+ lakh candidates** with **99.85%ile** in VARC.  
+- **International rank 1** in 7th IEO, **3** in 6th IEO; **State rank 56** in 19th NSO; Qualified for RMO by HBCSE.  
+*(2023, 2022, 2016–2018)*  
 
 ### Scholastic Achievements  
-- **CEMS-MIM**: Rank 13/52; Selected for Sanofi International Live Project (1/25).  
-- **IIM Calcutta**: Institute Prize (Top 3%ile, Rank 14/480); GPA 8.5/9 (Term III).  
-- **JNU Engineering**: Highest CGPA in department history.  
+- **Univ. Rank 13/52** for CEMS-MIM Program; **1/5 of 25** selected for Sanofi International live project.  
+- Awarded **Institute Prize** for being in top 3%ile (IR 14/480) at IIM C; Achieved **GPA 8.5/9** in Term III.  
+- Graduated with high first-class degree and **highest CGPA in history of JNU’s School of Engineering**.  
+*(2025, 2024, 2023)*  
 
-### Co-Curricular Highlights  
-- **National Finalist**: BCG ReDEisign (5/180+), Bharti FinPro (8/249).  
-- **Rank 8/135+** in Beacon (Consult Club, IIM C); **Top 3** in Panorama (Policy Club).  
-- Authored *Statistics Primer* (3.8/5 stars, 64 global sales on Amazon).  
-- Admitted to **Microsoft Cybersecurity Engage**; Completed **Amazon ML Summer School**.  
+### Co-Curricular Achievements  
+- **National finalist (5/180+)** in ReDEisign by BCG; **National semi-finalist (8/249)** in FinPro by Bharti Co.  
+- Achieved **8th/135+ rank** in Beacon by Consult Club, IIM C; **Top 3** in Panorama by Policy Club, IIM C.  
+- Authored primer for *"Statistics" by Freedman* with **3.8/5 stars**, global sales of **64 copies** on Amazon.  
+- Admitted to **Microsoft’s Cybersecurity Engage mentorship**; Completed **Amazon ML Summer School**.  
+*(2023, 2023, 2020, 2022)*  
 
 ---
 
 ## Industry Experience  
-### American Express | *Analytics Intern* (Apr 2024 – May 2024)  
-- Awarded **PPO** for performance; Presented analytics engine to 2 VPs.  
-- Improved workflow efficiency by **40%**; Conducted Python KT sessions.  
-- Analyzed 18M+ row datasets using SQL/PySpark; Developed 3+ models (30% faster analytics).  
+### AMERICAN EXPRESS | *Analytics Intern* (Apr 2024 – May 2024)  
+- **Achievements**:  
+  - Awarded **PPO** for consistent and excellent performance; Presented novel analytics engine to **2 Amex VPs**.  
+  - Proposed workflows improving analysis efficiency by **40%**; Conducted **2 KT sessions** on Python analytics.  
+- **Responsibilities**:  
+  - Harnessed **SQL and PySpark** to analyze **18+ row datasets**, expanding MSME merchant analytical coverage.  
+  - Developed **3+ innovative models**, boosting analytics speed by **30%** with greater accuracy and verifiability.  
 
-### KraftShala | *Live Project Intern, Founders’ Office* (Jan 2024 – Apr 2024)  
-- **Top 1/200+** (IIM A/B/C) selected; Earned LOR for performance.  
-- Created 20+ Finance & MIS learning packets; Collaborated with 5+ industry experts.  
+### KRAFTSHALA | *Live Project Intern, Founders' Office* (Jan 2024 – Apr 2024)  
+- **Learning & Development**:  
+  - **1/2 of 200+** from IIM A, B, C selected for Founders' Office project; Awarded **LOR** for stellar performance.  
+  - Synthesized **20+ learning packets** in Finance & MIS; Collaborated with **5+ industry experts** across domains.  
 
-### Ciena India | *Comm & Collab Intern* (Jan 2023 – Jun 2023)  
-- Saved **$400K+ annually** via license reclamation automation (720 hours/year saved).  
-- Delivered 7+ research docs, 5 scripts, and 4 Power Automate flows using Agile.  
-- Spearheaded **$435K potential savings** through Microsoft 365 cybersecurity analysis.  
+### CIENA INDIA PVT. LTD. | *Comm and Collab Intern* (Jan 2023 – Jun 2023)  
+- **Stakeholder Management**:  
+  - Collaborated with **global and cross-functional teams** of 20+ members in 3+ verticals across 4+ geographies.  
+  - Delivered **7+ research documents**, **5 scripts**, **4 Power Automate flows**, and **3 E2E automations** utilizing Agile.  
+- **Automation Development**:  
+  - Saved **$400k+** and **720 hours per year** by developing license reclamation automation template for admins.  
+  - Documented **4 unique automations** in detail and contributed greatly to org-wide future-proofing initiative.  
+  - Spearheaded potential savings of **$435k** through **7+ research initiatives** in Microsoft 365 cybersec analysis.  
+  - Presented knowledge sessions on automation development attended by **200+ listeners and senior leaders**.  
 
 ---
 
-## Leadership & Responsibilities  
+## Positions of Responsibility  
 ### Founding Co-President, CompSci Club, JNU (2023)  
-- Founded club with 76 members; Organized keynote talks (300K+ YouTube views).  
-- Conducted Python/Data Science workshops; Members secured **50% higher CTCs**.  
+- Pioneered the founding of CompSci club; Led team of **76 members**; Drafted the club's constitution.  
+- Coordinated keynote talk on netsec delivered by **CyberSec influencer with 300k+ views on Youtube**.  
+- Lead speaker of foundation workshops for first-year students in **essential Python and data science**.  
+- Conducted placement prep sessions; Club members secured **50% higher CTCs** compared to average.  
 
-### CEMS Club Core Team Member (2025)  
-- Managed social media (50K+ views); Organized treasure hunts (60+ participants).  
+### CEMS Club - Core Team Member (2025)  
+- **1/25** selected for CTM role; Oversaw team of **13 students**; Managed CEMS Page driving **50k+ views**.  
+- Organised **5 initiatives** during tenure incl. treasure hunt (**60+ participants**) & custom merchandise.  
 
 ---
 
 ## Extra-Curricular Achievements  
-### Quizzes & Competitions  
-- Winner: Athena History Quiz (SBSC); **Rank 8/650+** in SESI Fandom Quiz (PEC).  
-- Finalist: Mock Stock Challenge (LSR, 350+ participants); **Top 11/55+** (IIMC Ideathon).  
+### Quizzes and Competitions  
+- **Winner** of Athena History quiz by SBSC; **8th out of 650+** rank in SESI Fandom Quiz organized by PEC.  
+- **Finalist** among 350+ competitors in Mock Stock Challenge organised by Lady Shri Ram College, DU.  
+- **Top 11/55+** in Ideathon Case Comp by E-Cell, IIMC; **Runners up** in case comp by the Rotarcat Club.  
+*(2021, 2020, 2023, 2017)*  
 
 ### Recreational Pursuits  
-- **Thematic Philatelist**: 50+ rare stamp sheets, 350+ stamps across continents.  
-- **Stand-Up Comedian**: Performed for 300+ audiences at luxury venues.  
-- **Finance Blogger**: *Amaan’s Almanac* (300+ LinkedIn/Medium impressions).  
+- **Thematic philatelist** with rare collection of **50+ stamp sheets** and **350+ stamps** from every continent.  
+- **Stand-up comedian** having performed in front of crowds of **300+ people** in luxury hotels and events.  
+- **Finance blog author** at *Amaan’s Almanac* with **300+ impressions and likes** on LinkedIn and Medium.  
+*(2008–2023, 2019–2021, 2020)*  
 
 ---
 
 ## Skills & Certifications  
 - **Technical**: SQL, PySpark, Python, Power Automate, Agile.  
-- **Languages**: English (fluent), Hindi (native).  
+- **Languages**: English (Fluent), Hindi (Native).  
 
 ---
