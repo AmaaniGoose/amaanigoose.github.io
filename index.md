@@ -1,156 +1,81 @@
 # Welcome to the personal site of Amanullah Asad
 
-![my picture](/assets/profilepicturesuit.jpeg)
+![my picture](/assets/Casual Picture - Copy.jpg)
 
 ## About me
 
-I am a student at the Indian Institute of Management, Calcutta pursuing a Masters in Business Administration degree. I am passionate and creative, with a strong focus on problem solving and result oriented performance. 
+Multi-faceted individual. Engineer by training, humanist by philosophy. Budding manager looking forward to making an impact on the corporate world.
 
-## Education
+## Academic Qualifications  
+| Degree/Exam                | Institute                              | %/CGPA    | Rank/Year       |  
+|----------------------------|----------------------------------------|-----------|-----------------|  
+| MBA                        | Indian Institute of Management Calcutta| 8.25/9    | 14/480 (2025)   |  
+| B.Tech (ECE)               | Jawaharlal Nehru University           | 8.64/9    | 1/63 (2023)     |  
+| Class XII (CBSE)           | CBSE                                      | 95.4%     | 1/120 (2019)    |  
+| Class X (CBSE)             | CBSE                                      | 10/10     | 1/90 (2017)     |  
 
-1. Apeejay School, Park Street: Tenth Grade: Graduated with CGPA 10 from CBSE. 
-2. Apeejay School, Park Street: Twelfth Grade: Graduated with 95.4% marks in CBSE Science stream(best of four).
-3. BTech degree Electronics and Communications Engineering at Jawaharlal Nehru University.
-CGPA: 8.68/9 (91.8%). Rank 1 out of 65 students. Qualified GATE-2022 in EC (AIR-1929)
-4. Currently pursuing MBA from IIM Calcutta.
+---
 
+## Academic Distinctions & Co-Curricular Achievements  
+### Competitions & Accolades  
+- Received calls from IIM A, C, L, I, U and FMS, DU; Converted 8/9 of the top B-Schools of the country (2023)
+- Secured 99.83%ile in CAT-2022 examination amongst 2.22+ lakh candidates with 99.85%ile in VARC (2022)
+- International rank 1 in 7th IEO, 3 in 6th IEO; State rank 56 in 19th NSO; Qualified for RMO by HBCSE (16,18)
 
+### Scholastic Achievements  
+- **CEMS-MIM**: Rank 13/52; Selected for Sanofi International Live Project (1/25).  
+- **IIM Calcutta**: Institute Prize (Top 3%ile, Rank 14/480); GPA 8.5/9 (Term III).  
+- **JNU Engineering**: Highest CGPA in department history.  
 
+### Co-Curricular Highlights  
+- **National Finalist**: BCG ReDEisign (5/180+), Bharti FinPro (8/249).  
+- **Rank 8/135+** in Beacon (Consult Club, IIM C); **Top 3** in Panorama (Policy Club).  
+- Authored *Statistics Primer* (3.8/5 stars, 64 global sales on Amazon).  
+- Admitted to **Microsoft Cybersecurity Engage**; Completed **Amazon ML Summer School**.  
 
-## Projects and Portfolio
+---
 
-1. **Central University website development** : Developed the main website for School of Engineering at JNU using Drupal
-CMS, Postgresql and PHP
+## Industry Experience  
+### American Express | *Analytics Intern* (Apr 2024 – May 2024)  
+- Awarded **PPO** for performance; Presented analytics engine to 2 VPs.  
+- Improved workflow efficiency by **40%**; Conducted Python KT sessions.  
+- Analyzed 18M+ row datasets using SQL/PySpark; Developed 3+ models (30% faster analytics).  
 
-[Project link](http://soe.jnu.ac.in/)
+### KraftShala | *Live Project Intern, Founders’ Office* (Jan 2024 – Apr 2024)  
+- **Top 1/200+** (IIM A/B/C) selected; Earned LOR for performance.  
+- Created 20+ Finance & MIS learning packets; Collaborated with 5+ industry experts.  
 
-2. **Twitter equalizer** : Leveraged python and twitter API to create a web app that allows the user to
-switch accounts seamlessly
+### Ciena India | *Comm & Collab Intern* (Jan 2023 – Jun 2023)  
+- Saved **$400K+ annually** via license reclamation automation (720 hours/year saved).  
+- Delivered 7+ research docs, 5 scripts, and 4 Power Automate flows using Agile.  
+- Spearheaded **$435K potential savings** through Microsoft 365 cybersecurity analysis.  
 
-[Project link](https://colab.research.google.com/drive/1YgsnDbAeVKezhCyrqlaGKBBGgSbeUlQJ?usp=sharing)
+---
 
-3. **Book Author** : Authored Solution to review exercises Statistics by David Freedman 3rd Ed.
-Currently published on Amazon.
+## Leadership & Responsibilities  
+### Founding Co-President, CompSci Club, JNU (2023)  
+- Founded club with 76 members; Organized keynote talks (300K+ YouTube views).  
+- Conducted Python/Data Science workshops; Members secured **50% higher CTCs**.  
 
-[Project link](https://www.amazon.in/Solution-review-exercises-Statistics-Freedman-ebook/dp/B08DNSTHLD)
+### CEMS Club Core Team Member (2025)  
+- Managed social media (50K+ views); Organized treasure hunts (60+ participants).  
 
-4. **Developed Trading Algorithm** : Developed a trading algorithm to identify consolidation periods and
-breakouts in stock markets.
+---
 
-[Project link](https://github.com/AmaaniGoose/FinanceProject) 
+## Extra-Curricular Achievements  
+### Quizzes & Competitions  
+- Winner: Athena History Quiz (SBSC); **Rank 8/650+** in SESI Fandom Quiz (PEC).  
+- Finalist: Mock Stock Challenge (LSR, 350+ participants); **Top 11/55+** (IIMC Ideathon).  
 
-5. **E-Yantra Robotics Competition**: 
+### Recreational Pursuits  
+- **Thematic Philatelist**: 50+ rare stamp sheets, 350+ stamps across continents.  
+- **Stand-Up Comedian**: Performed for 300+ audiences at luxury venues.  
+- **Finance Blogger**: *Amaan’s Almanac* (300+ LinkedIn/Medium impressions).  
 
-Reached the semi-final stage of the e-Yantra competition organised by IIT Bombay
--  Designed a robot arm and programmed algorithmic bot navigation
--  Concepts learned and used were Robotic Simulation, Image Processing, 3D Designing, Algorithm Building,
-Robot Navigation and localization, Python programming and Lua programming.
--  Used OpenCV to detect strawberries, blueberries and lemons in greenhouse environment and wrote inverse
-kinematics code to implement pluck and place algorithm.
--  Used OpenCV along with Pybzar to design a QR code based navigation system
--  Rank 12/550 teams.
+---
 
-[Project link](https://portal.e-yantra.org/themeIntro) 
+## Skills & Certifications  
+- **Technical**: SQL, PySpark, Python, Power Automate, Agile.  
+- **Languages**: English (fluent), Hindi (native).  
 
-## Work Experience
-
-1. **Website Developer**: (April 2020 - June 2020) 
-**Ehsaan Clinic**
-Developed a full website from scratch using Bootstrap 4 and hosted it on a Linux based Web Server.
-
-2. **Coaching Solution Development** : (August 2020 - November 2020) 
-**The Rising Arjun**
-Worked in a team to develop a full stack solution for a coaching center based in Gurgaon, Haryana.
-
-3. **Cybersecurity Engage Intern** : (May 2022 - Present)
-**Microsoft**
-Learned penetration testing tools and techniques like Wireshark and Metasploit. Applied python in cybersecurity.
-Final project based on protecting critical infrastructure against attacks similar to Stuxnet.
-
-4. **Communication and Collaboration Intern** : (January 2023 - Present)
-**Ciena**
-Responsible for performing Microsoft SAAS infrastructure related tasks end to
-end with best-in-class tools and technologies. Involved in managing various
-M365 services like Exchange, SharePoint, Teams, etc with a solid focus on innovation,
-security, and automation. Worked on ideation on the best strategies
-and practices for communication and collaboration within Ciena IT.
-
-
-## Skills 
-
-### General Skills
--  Analytical Skills
-- Communication and Leadership
-- Superuser of office suite software
-- Teamwork and team building
-
-### Financial Skills
-- Financial Markets
-- Intraday Trading in options
-- Technical Analysis
-- Economics
-- Equity risk management and analysis
-
-### Technical Skills
-- Full Stack Web Development
-- Proficient in Bootstrap 4, ReactJs, Angular
-- Proficient in Mongodb, Express and NodeJs
-- Data Structures and Algorithms
-- C/C++/Java/Python
-- Api Building and deployment
-- Git/Github proficiency
-
-## Certifications
-
-- Amazon Machine Learning Summer School 2022
-- Coursera: Introduction to Financial Markets
-- Coursera:  Front-End Web UI Frameworks and Tools React
-- Coursera:  Front-End Web UI Frameworks and Tools React Native
-- Coursera:  Front-End Web UI Frameworks and Tools Angular
-- Coursera:  Back-End Web UI Frameworks and Tools NodeJs, Express and MongoDB
-
-## Honors & Awards
-
--  International English Olympiad: International Rank 1
--  Surendra Paul Scholarship Award from Apeejay Schools for exceptional academic achievement and flawless
-conduct
--  Our team participated in Innovation Sprint competition organized by Atal Incubation Centre, JNU and Forge
-accelerator and our idea, ”Subscription Service for Home-cooked Meals” was shortlisted for incubation.
--  Finalist at Mock Stock Challenge @ Bullseye 2021
--  Bagged 1st Position in the History Quiz organised by SBSC, DU
--  First position in Coding Challenge by Kyron, IIIT-Delhi
-
-## Co-Curricular Activities: 
-
--  Authored Solution to Review Exercises, Statistics by David Freedman 3rd Ed. Currently published on Amazon.
--  Selected as Co-President at CoLD, the Computer Science Club of SE, JNU.
--  Regular participation in technical events and quizzes.
-
-## Extra-Curricular Activities
-
--  Class representative since 2020
--  Ex-Executive at Abhinay, the Drama Club of JNU SE
--  Market participant since 2020 and blog author at Amaan’s Almanac.
-
-## Volunteering
-
--  Open Source Contributor at Hacktoberfest in 2020, 2021 and 2022.
--  Web Developer at Pawsome Foundation, an organization dedicated to animal well-being.
--  Took part in Each One Teach One program in high school.
-
-## Hobbies
-
-- Classical Music
-- Philosophy
-- Literature
-- Anime and Manga
-
-## LANGUAGES
--  English
--  Hindi
--  Bengali
-
-## Contact Information
-
-1. Email Id: amanullah1707@gmail.com
-2. LinkedIn: https://www.linkedin.com/in/amanullah-asad-07914018a/
+---
